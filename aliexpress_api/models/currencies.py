@@ -14,3 +14,4 @@ class Currency:
     IDR = 'IDR'
     SEK = 'SEK'
     KRW = 'KRW'
+    BGN = 'BGN'

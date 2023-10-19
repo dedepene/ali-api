@@ -20,3 +20,4 @@ class Language:
     CL = 'CL'
     IW = 'IW'
     IN = 'IN'
+    BG = 'BG'
