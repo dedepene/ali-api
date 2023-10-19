@@ -1,4 +1,4 @@
-# AliExpress API wrapper for Python
+# In this fork I've added only support for BG language and BGN currency.
 
 A simple Python wrapper for the [AliExpress Open Platform API](https://developers.aliexpress.com/en). This module allows getting information and affiliate links from AliExpress using the official API in an easier way.
 
